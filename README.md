@@ -1,2 +1,9 @@
 # it3038c-scripts
-Class Work
+MY App
+======
+# This is my app
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
